@@ -1,0 +1,6 @@
+{
+    "db":"mongodb://localhost/stockmanager",
+    "jwtPrivateKey":"PrivateKey",
+    "MAILGUN_APIKEY":"1448e7cef66f7f790e39da99643c6050-10eedde5-0a277b68",
+    "Domain":"sandbox0c2eed16d6b241629018550d6b3dd5c9.mailgun.org"
+}
